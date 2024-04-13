@@ -1,0 +1,5 @@
+https://love.edwardcharl.es/feed/feed.xml
+https://www.darkreading.com/rss.xml
+https://threatpost.com/feed
+https://feeds.feedburner.com/TheHackersNews
+https://www.bleepingcomputer.com/feed/
